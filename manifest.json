@@ -1,5 +1,5 @@
 {
-    "name": "cool-new-tab",
+    "name": "anti-procrastination",
     "description": "randomly adds an effect to every new-tab page of chrome",
     "version": "1.0",
     "manifest_version": 3,
