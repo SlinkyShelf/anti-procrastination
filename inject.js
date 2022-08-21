@@ -49,3 +49,6 @@ const spinner = document.createElement("div")
 spinner.className = "spin"
 cover.appendChild(spinner)
 
+setTimeout(() => {
+    document.body.removeChild(cover)
+}, 30000)
